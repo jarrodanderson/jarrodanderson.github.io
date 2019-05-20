@@ -1,5 +1,3 @@
-<img src="https://github.com/adityaas26/Dr-Posture/blob/master/assets/img/good-posture.svg" alt="drawing" width="250"/>
-
 ## Introduction 
 Detects body posture using your web camera and classifies your posture to be **correct** or **incorrect**. 
 
